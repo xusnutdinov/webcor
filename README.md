@@ -2,4 +2,4 @@
 
 Верстка производиласть на основе готового шаблона в PSD формате.
 
-Посмотреть работу можно по ссылке: https://xusnutdinov.github.io/webcor-hrml-css/
+Посмотреть работу можно по ссылке: https://xusnutdinov.github.io/webcor/
